@@ -62,8 +62,8 @@ p a {
           justify-content: center;
   height: 80vh;
   min-height: 400px;
-  background: #44D8DC;
-  color: white;
+  background: #E9E9E9;
+  color: #EB3928;
 }
 
 .splash__title,
